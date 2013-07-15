@@ -7,7 +7,7 @@ To download any video lecture series on Coursera
 
 A python script to batch download video lectures of any particular course on Coursera.
 
-Usage : python wgetFinal.py
+Usage : python wgetFinal.py https://class.coursera.org/algo-004/lecture/index
 
                             
                             OR
